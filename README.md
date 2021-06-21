@@ -1,3 +1,3 @@
 # stepbystep
 
-Aplicativo Flutter de contador(Mobile,web,desktop windiows)
+Aplicativo Flutter de contador(Mobile,web,desktop windows)
