@@ -22,7 +22,7 @@ class _MeuContadorState extends State<MeuContador> {
       home: Scaffold(
         appBar: AppBar(
           title: Center(
-            child: Text("Meu primeiro App"),
+            child: Text("App"),
           ),
         ),
         body: Container(
